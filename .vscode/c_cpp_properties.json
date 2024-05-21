@@ -3,7 +3,11 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/include",       // Standard include paths
+                "/usr/local/include", // Include paths for additional libraries
+                "/usr/include/curl",  // Include path for libcurl
+                "/usr/include/ncurses" // Include path for ncurses
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++",
@@ -13,4 +17,6 @@
         }
     ],
     "version": 4
+}
+
 }

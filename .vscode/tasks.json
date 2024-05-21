@@ -9,7 +9,9 @@
                 "-g",
                 "main.cpp",
                 "-o",
-                "a.out"
+                "a.out",
+                "-lncurses", // Link with ncurses
+                "-lcurl"     // Link with libcurl
             ],
             "group": {
                 "kind": "build",
@@ -20,3 +22,4 @@
         }
     ]
 }
+
