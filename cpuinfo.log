@@ -5,7 +5,7 @@ model		: 94
 model name	: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
 stepping	: 3
 microcode	: 0xf0
-cpu MHz		: 900.002
+cpu MHz		: 899.998
 cache size	: 6144 KB
 physical id	: 0
 siblings	: 4
@@ -33,7 +33,7 @@ model		: 94
 model name	: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
 stepping	: 3
 microcode	: 0xf0
-cpu MHz		: 900.007
+cpu MHz		: 900.009
 cache size	: 6144 KB
 physical id	: 0
 siblings	: 4
@@ -61,7 +61,7 @@ model		: 94
 model name	: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
 stepping	: 3
 microcode	: 0xf0
-cpu MHz		: 900.048
+cpu MHz		: 900.077
 cache size	: 6144 KB
 physical id	: 0
 siblings	: 4

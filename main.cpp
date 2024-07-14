@@ -34,7 +34,7 @@ void initialize_curl() {
 void initialize_ncurses() {
     // Initialize ncurses
     initscr();
-    printw("Hello World"); // Example of ncurses output
+    printw("Welcome to System Info"); // Example of ncurses output
     refresh();
     getch();
     endwin();
