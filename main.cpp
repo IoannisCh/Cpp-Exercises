@@ -14,7 +14,7 @@ void initialize_curl() {
     curl = curl_easy_init();
     if (curl) {
         // Set the URL for the CURL session
-        curl_easy_setopt(curl, CURLOPT_URL, "https://example.com");
+        curl_easy_setopt(curl, CURLOPT_URL, "https://www.google.com");
 
         // Perform the request, res will get the return code
         res = curl_easy_perform(curl);
