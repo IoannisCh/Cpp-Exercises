@@ -1,6 +1,6 @@
+#include <gtk/gtk.h>
 #include <iostream>
 #include <cstdlib> // For system()
-#include <ncurses.h>
 #include <curl/curl.h>
 
 void initialize_curl() {
